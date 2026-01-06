@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.gabriels.workshopmongo.Post;
+import com.gabriels.workshopmongo.domain.Post;
 import com.gabriels.workshopmongo.services.PostService;
 
 
